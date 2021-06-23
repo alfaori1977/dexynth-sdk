@@ -1,18 +1,15 @@
 {
-  "name": "@pancakeswap-libs/sdk-v2",
+  "name": "@duhd4h/global-sdk",
   "license": "MIT",
-  "version": "2.2.0",
+  "version": "1.0.2",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
-  "keywords": [
-    "pancakeswap",
-    "ethereum"
-  ],
+  "repository": "https://github.com/Global-Repo/global-sdk.git",
+  "keywords": [],
   "module": "dist/sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
