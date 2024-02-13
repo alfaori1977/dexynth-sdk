@@ -1,14 +1,14 @@
 {
-  "name": "@duhd4h/global-sdk",
+  "name": "@dexynth/dexynth-sdk",
   "license": "MIT",
-  "version": "1.0.12",
+  "version": "1.0.1",
   "description": "🛠 An SDK for building applications on top of pancakeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Global-Repo/global-sdk.git",
+  "repository": "https://github.com/alfaori1977/dexynth-sdk.git",
   "keywords": [],
   "module": "dist/sdk.esm.js",
   "scripts": {
